@@ -36,6 +36,7 @@ public class App {
         }
         else {
             System.out.print("Sorry. No match.");
-        }        
+        }
+        input.close();        
     }
 }
